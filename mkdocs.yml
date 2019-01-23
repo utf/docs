@@ -7,6 +7,8 @@ repo_url: 'https://github.com/materialsproject/docs'
 nav:
     - Home: 'index.md'
     - Foundation: 'foundation.md'
+    - Applications:
+        - 'Crystal Toolkit': 'applications/crystal-toolkit.md'
     - Methodology:
         - 'Total energies': 'methodology/total-energies.md'
         - 'Electronic structure': 'methodology/electronic-structure.md'
